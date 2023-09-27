@@ -37,7 +37,8 @@ echo ""
 echo "."
 echo "..
 ........"
-echo "oh so you need the key! THAT's what that thing was for.. dammit."
-echo "Why young hero, I may have given the key to someone living deep in the dark forest.. you will find them by searching after an ominous glowing door."
+echo "Oooooooh so you need the KEY! THAT's what that thing was for.. dammit."
+echo "Why young hero, I may have given the key to someone living deep in the dark forest.. you will find them by searching after an ominous glowing door. Behins that door, you shall find them."
 
-echo "when you find them, they will give you the key to the chest!"
+echo "When you find them, they will give you the key to the chest!"
+echo "Not even I know, what's inside the chest, but I am quite sure it will be awesome!"
