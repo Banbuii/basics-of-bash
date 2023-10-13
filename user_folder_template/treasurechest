@@ -1,0 +1,28 @@
+#!/bin/bash
+
+read -sp 'Key to the true treasure: ' key
+
+password=$( echo "YmFzaHRlc19wd2QK" | base64 -d )
+
+if [ $key = "$password" ]
+then
+echo "CuKcp++9pe++nzogKuKcp++9pe++nzoq4pyn772l776fOiAq4pyn772l776fOirinKfvvaXvvp86
+ICo6772l776f4pynKjrvvaXvvp/inKcqOu+9pe++n+Kcpyo6772l776f4pynKjrvvaXvvp/inKcq
+Ou+9pe++n+KcpwogX19fX18gX19fXyAgX19fIF9fX19fIF8gICBfIF9fX18gIF9fX18gIF8gICBf
+IF9fXyBfX19fICAKfCAgX19ffCAgXyBcfF8gX3wgX19fX3wgXCB8IHwgIF8gXC8gX19ffHwgfCB8
+IHxfIF98ICBfIFwgCnwgfF8gIHwgfF8pIHx8IHx8ICBffCB8ICBcfCB8IHwgfCBcX19fIFx8IHxf
+fCB8fCB8fCB8XykgfAp8ICBffCB8ICBfIDwgfCB8fCB8X19ffCB8XCAgfCB8X3wgfF9fXykgfCAg
+XyAgfHwgfHwgIF9fLyAKfF98ICAgfF98IFxfXF9fX3xfX19fX3xffCBcX3xfX19fL3xfX19fL3xf
+fCB8X3xfX198X3wK4pyn772l776fOiAq4pyn772l776fOirinKfvvaXvvp86ICrinKfvvaXvvp86
+KuKcp++9pe++nzogKjrvvaXvvp/inKcqOu+9pe++n+Kcpyo6772l776f4pynKjrvvaXvvp/inKcq
+Ou+9pe++n+Kcpyo6772l776f4pynCg==" | base64 -d | lolcat -ad
+
+echo "
+
+"
+
+echo "Q29uZ3JhdHVsYXRpb25zISBZb3UndmUgZG9uZSBpdCEgTm93IHlvdSBjYW4gY2FsbCB5b3Vyc2Vs
+ZiBIYWNrZXJtYW4hISAoSnVzdCBub3QgdG9vIGxvdWRseS4uKQo=" | base64 -d |lolcat -ad 50
+else 
+    echo -e "\n Sadly that's not the right key."
+fi
