@@ -1,5 +1,5 @@
 ## wizard for bob-workshop
-## put in the /usr/share/cowsay/cow folder on the server
+## put in the /usr/share/cowsay/cows folder on the server
 $the_cow = <<EOC;
    $thoughts
     $thoughts          
