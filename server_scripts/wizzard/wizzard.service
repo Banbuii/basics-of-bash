@@ -1,0 +1,18 @@
+[Unit]
+Description=The great mighty wizzard is patiently waiting for your answers...
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/home/admins/scripts/wizzard/wizzards_ear
+WorkingDirectory=/home/admins/scripts/wizzard
+# ExecStart=/home/steffen/C/wizzards_ear
+# WorkingDirectory=/home/steffen/C
+Restart=always
+RestartSec=1
+StandardOutput=append:/var/log/wizzard/log1.log
+StandardError=append:/var/log/wizzard/log2.log
+SyslogIdentifier=%n
