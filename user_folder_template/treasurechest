@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -sp 'Key to the true treasure: ' key
+read -sp 'Insert key to the true treasure: ' key
 
 password=$( echo "YmFzaHRlc19wd2QK" | base64 -d )
 

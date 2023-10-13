@@ -1,0 +1,14 @@
+## wizard for bob-workshop
+## put in the /usr/share/cowsay/cow folder on the server
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts          
+     $thoughts       __/\\__
+	. _  //''\\\\
+	-( )-/_||_\\
+	 .'. \\_()_/
+	  |   | . \\
+	  |   | .  \\
+	 .'. ,\\_____'.
+
+EOC
