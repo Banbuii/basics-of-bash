@@ -2,10 +2,9 @@
 
 ## Router
 
-<!-- Alter [Arris TG862](./Bedienungsanleitung_ArrisTG862AS.pdf) -->
+Ist gerade der TP-LINK AC1750 aus dem Raum A 330, da der andere nicht auffindbar war.
 
-
-Login: `admin:honeypotap` oder `root:honeypotap` (bin nicht mehr sicher)
+Login: `root:honeypotap`
 
 Interface erreichbar unter IP: `192.168.1.1`
 
@@ -16,7 +15,7 @@ Interface erreichbar unter IP: `192.168.1.1`
 ## Server
 
 Router hat einen DNS-Server!
-Erreichbar unter `@bash-basics` oder IP: `@192.168.1.10`
+Erreichbar unter `@basics-of-bash` oder IP: `@192.168.1.224`
 (Die IP ist für MAC: `90:FB:A6:E6:54:B9` reserviert)
 
 Config: TODO
@@ -33,6 +32,12 @@ Config: TODO
 #### Users
 
 Username ist jeweils das Passwort: `hero_xxx:hero_xxx`
+
+## Handy Commands
+
+`tail -f /var/log/wizzard/log1.log` folgt allen Eingaben, die der Wizzard ins Ohr geflüstert bekommt.
+
+`watch -n 1 w` gibt eine Übersicht über die Aktivitäten aller eingeloggten User aus und aktualisiert sie einmal pro Sekunde. 
 
 ## Scripts
 
@@ -52,6 +57,20 @@ Legt außerdem eine `feedback.txt` in `/home/heroes/` an.
 ### delete_users.sh und delete_admins.sh
 
 Löscht die alle User der jeweiligen Gruppen
+
+### Der Wizzard
+
+Enthält die Skripte für die Mechanik, mit der die User in die `wizzards_approval`-Gruppe aufgenommen werden.
+
+`wizzard.service` lässt `wizzards_ear` als Service im Hintergrund laufen. Dieses legt eine FIFO-Pipe an und wartet dann am
+lesenden Ende auf Input. Per `tell_wizzard <your_answer>` wird der eigene Username und die Antwort in die Pipe geschrieben.
+Ist die Antwort richtig, wird der User in die Gruppe gesteckt und aus seiner Session geworfen.
+
+### userfolder_template
+
+Wie der Name schon sagt, ist das die Vorlage für die `/home`-Folder aller Heroes.
+
+Barabara schreibt hier bald(TM) noch ein paar Worte zur Erklärung
 
 ### Baum mit 10 Usern (relevante Verzeichnisse)
 
