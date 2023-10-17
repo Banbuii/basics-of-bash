@@ -69,6 +69,8 @@ Um den Ordner zu befüllen, muss das `build_workshop.sh`Skript aus dem `workshop
 
 ACHTUNG: es muss vorher cowsay installiert sein.
 
+Usage `build_workshop.sh`: `bash build_workshop.sh [Path to user_folder_template]`
+
 
 ### Baum mit 10 Usern (relevante Verzeichnisse)
 
