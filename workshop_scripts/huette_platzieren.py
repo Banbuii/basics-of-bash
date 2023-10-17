@@ -1,9 +1,10 @@
 import random
 import shutil
+import sys
 
 pfade = ["/left_tree", "/right_tree"]
 
-path = "../user_folder_template/dark_forest"
+path = f"{sys.argv[1]}/dark_forest"
 
 for i in range(10):
     path += random.choice(pfade)

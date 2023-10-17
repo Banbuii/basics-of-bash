@@ -1,7 +1,10 @@
 #!/bin/python
 import os
+import sys
 
-start_folder = "../user_folder_template/dark_forest"
+
+
+start_folder = f"{sys.argv[1]}/dark_forest"
 
 if(not os.path.isdir(start_folder)):
     os.mkdir(start_folder)

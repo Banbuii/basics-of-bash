@@ -65,8 +65,10 @@ Ist die Antwort richtig, wird der User in die Gruppe gesteckt und aus seiner Ses
 ### userfolder_template
 
 Wie der Name schon sagt, ist das die Vorlage für die `/home`-Folder aller Heroes.
+Um den Ordner zu befüllen, muss das `build_workshop.sh`Skript aus dem `workshop_scripts` Ordner ausgeführt werden. Dieses erzeugt die Ordner-Struktur für den "Wald" und den "Dungeon" des Workshops, und kopiert alle relevanten weiteren Dateien aus dem `workshop_scripts` ordner und dem `quest_scripts` ordner.
 
-Barabara schreibt hier bald(TM) noch ein paar Worte zur Erklärung
+ACHTUNG: es muss vorher cowsay installiert sein.
+
 
 ### Baum mit 10 Usern (relevante Verzeichnisse)
 
@@ -86,8 +88,13 @@ Barabara schreibt hier bald(TM) noch ein paar Worte zur Erklärung
     │       ├── delete_users.sh
     │       ├── generate_usage.sh
     │       └── user_folder_template
-    │           ├── test_folder
-    │           └── test.txt
+    │       |   ├── ...
+    │       |   └── ...
+    |       └── workshop_scripts
+    |           ├── quest_scripts
+    |           |   └── ...
+    │           ├── build_workshop
+    │           └── ...
     └── heroes
         ├── feedback.txt
         ├── hero_000
@@ -110,3 +117,15 @@ Barabara schreibt hier bald(TM) noch ein paar Worte zur Erklärung
 ## Pad
 
 [Pad](https://pad.finf.uni-hannover.de/sArjdD_oSz-JRfsfYHs7dg#)
+
+
+## ToDo vor Durchführung des Workshops
+
+- [ ] Nummern ausdrucken und auf den Sitzpätzen im Workshopraum verteilen -> Nummern für den Username im Workshop
+
+### Hardware
+
+- [ ] Server auf dem alle Skripte laufen und der Workshop ausgeführt wird
+- [ ] Bildschirm und Tastatur für besagten Server
+- [ ] Router (am besten mehrere, oder sehr leistungsfähiger)
+- [ ] ggf Switches, das möglichst viele User auch über LAN teilnehmen können

@@ -1,5 +1,6 @@
 import random
 import os
+import sys
 
 colour = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "rosa"]
 size = ["tiny", "small", "medium", "big", "gigantic"]
@@ -11,7 +12,7 @@ door_form = ["round", "square", "pointy", "wide", "narrow"]
 
 
 dungeon = ""
-start_path = "../user_folder_template/kings_castle/dungeon/"
+start_path = f"{sys.argv[1]}/kings_castle/dungeon/"
 
 os.mkdir(start_path)
 
