@@ -2,11 +2,7 @@
 
 ## Router
 
-Ist gerade der TP-LINK AC1750 aus dem Raum A 330, da der andere nicht auffindbar war.
-
-Login: `root:honeypotap`
-
-Interface erreichbar unter IP: `192.168.1.1`
+Siehe [Router Config](./router-config)
 
 ### WIFI
 
