@@ -1,256 +1,256 @@
-Room 0 has a orange, pointy door made of stone. 
-Room 1 has a violet, square door made of stone. 
-Room 2 has a blue, pointy door made of stone. 
-Room 3 has a violet, pointy door made of wood. 
-Room 4 has a green, square door made of metal bars. 
-Room 5 has a violet, square door made of metal bars. 
-Room 6 has a rosa, pointy door made of metal bars. 
-Room 7 has a violet, pointy door made of stone. 
-Room 8 has a rosa, pointy door made of stone. 
-Room 9 has a rosa, wide door made of wood. 
-Room 10 has a green, pointy door made of stone. 
-Room 11 has a violet, wide door made of stone. 
-Room 12 has a orange, narrow door made of metal bars. 
-Room 13 has a green, square door made of metal bars. 
-Room 14 has a green, round door made of wood. 
-Room 15 has a rosa, pointy door made of wood. 
-Room 16 has a indigo, pointy door made of metal bars. 
-Room 17 has a yellow, wide door made of stone. 
-Room 18 has a blue, round door made of wood. 
-Room 19 has a violet, narrow door made of wood. 
-Room 20 has a violet, square door made of wood. 
-Room 21 has a red, round door made of metal bars. 
-Room 22 has a yellow, narrow door made of metal bars. 
-Room 23 has a red, round door made of stone. 
-Room 24 has a rosa, pointy door made of stone. 
-Room 25 has a green, narrow door made of stone. 
-Room 26 has a yellow, wide door made of metal bars. 
-Room 27 has a violet, pointy door made of stone. 
-Room 28 has a red, narrow door made of metal bars. 
-Room 29 has a indigo, round door made of wood. 
-Room 30 has a green, round door made of stone. 
-Room 31 has a green, pointy door made of metal bars. 
-Room 32 has a green, wide door made of stone. 
-Room 33 has a rosa, wide door made of wood. 
-Room 34 has a violet, wide door made of stone. 
-Room 35 has a indigo, square door made of metal bars. 
-Room 36 has a indigo, wide door made of stone. 
-Room 37 has a green, square door made of metal bars. 
-Room 38 has a orange, narrow door made of wood. 
-Room 39 has a red, pointy door made of stone. 
-Room 40 has a yellow, wide door made of wood. 
-Room 41 has a indigo, pointy door made of metal bars. 
-Room 42 has a green, narrow door made of wood. 
-Room 43 has a blue, pointy door made of metal bars. 
-Room 44 has a blue, narrow door made of stone. 
-Room 45 has a violet, pointy door made of wood. 
-Room 46 has a green, round door made of wood. 
-Room 47 has a blue, square door made of stone. 
-Room 48 has a rosa, square door made of metal bars. 
-Room 49 has a violet, round door made of metal bars. 
-Room 50 has a violet, round door made of wood. 
+Room 0 has a yellow, square door made of wood. 
+Room 1 has a rosa, narrow door made of stone. 
+Room 2 has a indigo, wide door made of stone. 
+Room 3 has a indigo, square door made of stone. 
+Room 4 has a green, narrow door made of stone. 
+Room 5 has a blue, pointy door made of stone. 
+Room 6 has a green, pointy door made of metal bars. 
+Room 7 has a orange, pointy door made of wood. 
+Room 8 has a green, narrow door made of wood. 
+Room 9 has a yellow, square door made of metal bars. 
+Room 10 has a red, square door made of metal bars. 
+Room 11 has a green, square door made of wood. 
+Room 12 has a yellow, pointy door made of wood. 
+Room 13 has a rosa, narrow door made of stone. 
+Room 14 has a rosa, narrow door made of stone. 
+Room 15 has a indigo, pointy door made of wood. 
+Room 16 has a orange, square door made of stone. 
+Room 17 has a orange, narrow door made of wood. 
+Room 18 has a violet, narrow door made of metal bars. 
+Room 19 has a violet, wide door made of metal bars. 
+Room 20 has a red, narrow door made of wood. 
+Room 21 has a green, narrow door made of wood. 
+Room 22 has a violet, round door made of stone. 
+Room 23 has a red, square door made of metal bars. 
+Room 24 has a violet, round door made of stone. 
+Room 25 has a red, wide door made of metal bars. 
+Room 26 has a violet, square door made of wood. 
+Room 27 has a blue, narrow door made of wood. 
+Room 28 has a red, square door made of metal bars. 
+Room 29 has a rosa, round door made of wood. 
+Room 30 has a violet, wide door made of wood. 
+Room 31 has a orange, square door made of stone. 
+Room 32 has a violet, round door made of wood. 
+Room 33 has a violet, round door made of metal bars. 
+Room 34 has a red, pointy door made of metal bars. 
+Room 35 has a violet, round door made of metal bars. 
+Room 36 has a orange, narrow door made of stone. 
+Room 37 has a blue, round door made of wood. 
+Room 38 has a indigo, narrow door made of stone. 
+Room 39 has a green, pointy door made of wood. 
+Room 40 has a yellow, square door made of wood. 
+Room 41 has a orange, round door made of wood. 
+Room 42 has a red, round door made of wood. 
+Room 43 has a blue, wide door made of stone. 
+Room 44 has a orange, round door made of stone. 
+Room 45 has a blue, square door made of wood. 
+Room 46 has a yellow, narrow door made of metal bars. 
+Room 47 has a red, square door made of metal bars. 
+Room 48 has a red, square door made of stone. 
+Room 49 has a violet, square door made of wood. 
+Room 50 has a violet, round door made of stone. 
 Room 51 has a rosa, pointy door made of stone. 
-Room 52 has a rosa, pointy door made of stone. 
-Room 53 has a orange, narrow door made of stone. 
-Room 54 has a violet, narrow door made of stone. 
-Room 55 has a rosa, square door made of metal bars. 
-Room 56 has a rosa, narrow door made of stone. 
-Room 57 has a green, round door made of stone. 
-Room 58 has a green, pointy door made of metal bars. 
-Room 59 has a indigo, wide door made of metal bars. 
-Room 60 has a rosa, narrow door made of wood. 
-Room 61 has a red, square door made of wood. 
+Room 52 has a yellow, pointy door made of metal bars. 
+Room 53 has a yellow, round door made of metal bars. 
+Room 54 has a rosa, wide door made of metal bars. 
+Room 55 has a indigo, square door made of metal bars. 
+Room 56 has a green, narrow door made of wood. 
+Room 57 has a violet, narrow door made of metal bars. 
+Room 58 has a red, square door made of stone. 
+Room 59 has a indigo, pointy door made of metal bars. 
+Room 60 has a green, square door made of metal bars. 
+Room 61 has a green, wide door made of wood. 
 Room 62 has a orange, wide door made of wood. 
-Room 63 has a violet, narrow door made of metal bars. 
-Room 64 has a blue, narrow door made of metal bars. 
-Room 65 has a red, square door made of wood. 
-Room 66 has a rosa, narrow door made of metal bars. 
-Room 67 has a blue, wide door made of wood. 
-Room 68 has a yellow, square door made of metal bars. 
-Room 69 has a yellow, wide door made of wood. 
-Room 70 has a blue, round door made of metal bars. 
-Room 71 has a indigo, pointy door made of metal bars. 
-Room 72 has a violet, square door made of metal bars. 
-Room 73 has a red, square door made of wood. 
-Room 74 has a green, pointy door made of stone. 
-Room 75 has a yellow, round door made of stone. 
-Room 76 has a red, wide door made of wood. 
-Room 77 has a orange, round door made of stone. 
-Room 78 has a blue, narrow door made of stone. 
-Room 79 has a rosa, narrow door made of wood. 
-Room 80 has a indigo, square door made of wood. 
-Room 81 has a blue, wide door made of metal bars. 
-Room 82 has a green, narrow door made of wood. 
-Room 83 has a rosa, round door made of metal bars. 
-Room 84 has a yellow, square door made of stone. 
-Room 85 has a orange, wide door made of stone. 
-Room 86 has a violet, pointy door made of metal bars. 
-Room 87 has a blue, round door made of stone. 
-Room 88 has a indigo, pointy door made of stone. 
-Room 89 has a indigo, square door made of stone. 
-Room 90 has a indigo, narrow door made of wood. 
-Room 91 has a yellow, pointy door made of wood. 
-Room 92 has a blue, round door made of wood. 
-Room 93 has a yellow, pointy door made of wood. 
-Room 94 has a violet, narrow door made of wood. 
-Room 95 has a red, wide door made of metal bars. 
-Room 96 has a violet, round door made of stone. 
-Room 97 has a violet, round door made of wood. 
-Room 98 has a blue, pointy door made of metal bars. 
-Room 99 has a orange, wide door made of metal bars. 
-Room 100 has a orange, wide door made of wood. 
-Room 101 has a red, wide door made of stone. 
-Room 102 has a blue, narrow door made of stone. 
-Room 103 has a red, narrow door made of stone. 
-Room 104 has a red, pointy door made of wood. 
-Room 105 has a violet, narrow door made of wood. 
-Room 106 has a indigo, square door made of wood. 
-Room 107 has a rosa, wide door made of metal bars. 
-Room 108 has a indigo, wide door made of stone. 
-Room 109 has a blue, wide door made of metal bars. 
-Room 110 has a orange, round door made of stone. 
-Room 111 has a indigo, square door made of wood. 
-Room 112 has a rosa, pointy door made of stone. 
-Room 113 has a blue, narrow door made of metal bars. 
-Room 114 has a orange, narrow door made of metal bars. 
-Room 115 has a orange, pointy door made of stone. 
-Room 116 has a orange, square door made of stone. 
-Room 117 has a green, square door made of metal bars. 
-Room 118 has a indigo, square door made of stone. 
-Room 119 has a blue, wide door made of metal bars. 
-Room 120 has a rosa, round door made of stone. 
-Room 121 has a green, pointy door made of metal bars. 
-Room 122 has a indigo, narrow door made of wood. 
-Room 123 has a red, round door made of wood. 
-Room 124 has a rosa, pointy door made of wood. 
-Room 125 has a yellow, narrow door made of wood. 
-Room 126 has a blue, square door made of wood. 
-Room 127 has a violet, narrow door made of stone. 
-Room 128 has a rosa, narrow door made of wood. 
-Room 129 has a blue, narrow door made of wood. 
-Room 130 has a blue, round door made of metal bars. 
-Room 131 has a green, square door made of stone. 
-Room 132 has a blue, square door made of metal bars. 
-Room 133 has a indigo, square door made of metal bars. 
-Room 134 has a blue, narrow door made of metal bars. 
-Room 135 has a green, square door made of stone. 
-Room 136 has a indigo, pointy door made of metal bars. 
-Room 137 has a orange, narrow door made of metal bars. 
-Room 138 has a orange, wide door made of stone. 
-Room 139 has a orange, square door made of metal bars. 
-Room 140 has a blue, square door made of metal bars. 
-Room 141 has a yellow, pointy door made of stone. 
+Room 63 has a orange, narrow door made of metal bars. 
+Room 64 has a green, round door made of metal bars. 
+Room 65 has a green, wide door made of metal bars. 
+Room 66 has a blue, narrow door made of metal bars. 
+Room 67 has a violet, pointy door made of wood. 
+Room 68 has a orange, narrow door made of wood. 
+Room 69 has a green, round door made of stone. 
+Room 70 has a violet, narrow door made of metal bars. 
+Room 71 has a blue, narrow door made of wood. 
+Room 72 has a yellow, wide door made of wood. 
+Room 73 has a rosa, wide door made of stone. 
+Room 74 has a blue, pointy door made of wood. 
+Room 75 has a yellow, narrow door made of wood. 
+Room 76 has a rosa, round door made of metal bars. 
+Room 77 has a rosa, round door made of wood. 
+Room 78 has a blue, wide door made of metal bars. 
+Room 79 has a rosa, square door made of wood. 
+Room 80 has a blue, round door made of wood. 
+Room 81 has a red, wide door made of stone. 
+Room 82 has a indigo, narrow door made of metal bars. 
+Room 83 has a indigo, pointy door made of stone. 
+Room 84 has a blue, pointy door made of stone. 
+Room 85 has a red, narrow door made of metal bars. 
+Room 86 has a rosa, wide door made of metal bars. 
+Room 87 has a rosa, wide door made of metal bars. 
+Room 88 has a indigo, round door made of metal bars. 
+Room 89 has a yellow, square door made of wood. 
+Room 90 has a rosa, narrow door made of stone. 
+Room 91 has a red, wide door made of wood. 
+Room 92 has a blue, wide door made of wood. 
+Room 93 has a indigo, pointy door made of wood. 
+Room 94 has a red, narrow door made of wood. 
+Room 95 has a indigo, round door made of wood. 
+Room 96 has a red, square door made of stone. 
+Room 97 has a orange, wide door made of stone. 
+Room 98 has a rosa, narrow door made of metal bars. 
+Room 99 has a violet, wide door made of stone. 
+Room 100 has a blue, round door made of stone. 
+Room 101 has a orange, narrow door made of stone. 
+Room 102 has a red, square door made of stone. 
+Room 103 has a indigo, wide door made of metal bars. 
+Room 104 has a yellow, square door made of metal bars. 
+Room 105 has a indigo, narrow door made of stone. 
+Room 106 has a violet, narrow door made of stone. 
+Room 107 has a blue, round door made of stone. 
+Room 108 has a violet, pointy door made of stone. 
+Room 109 has a rosa, narrow door made of wood. 
+Room 110 has a orange, pointy door made of metal bars. 
+Room 111 has a green, narrow door made of wood. 
+Room 112 has a indigo, square door made of stone. 
+Room 113 has a yellow, wide door made of wood. 
+Room 114 has a red, wide door made of metal bars. 
+Room 115 has a rosa, square door made of stone. 
+Room 116 has a blue, square door made of metal bars. 
+Room 117 has a green, round door made of metal bars. 
+Room 118 has a red, wide door made of wood. 
+Room 119 has a green, wide door made of metal bars. 
+Room 120 has a yellow, wide door made of metal bars. 
+Room 121 has a indigo, wide door made of wood. 
+Room 122 has a blue, pointy door made of stone. 
+Room 123 has a orange, round door made of wood. 
+Room 124 has a rosa, square door made of metal bars. 
+Room 125 has a rosa, wide door made of metal bars. 
+Room 126 has a red, wide door made of wood. 
+Room 127 has a blue, square door made of metal bars. 
+Room 128 has a rosa, pointy door made of metal bars. 
+Room 129 has a violet, round door made of stone. 
+Room 130 has a yellow, wide door made of stone. 
+Room 131 has a violet, narrow door made of metal bars. 
+Room 132 has a orange, wide door made of wood. 
+Room 133 has a orange, square door made of stone. 
+Room 134 has a violet, narrow door made of metal bars. 
+Room 135 has a rosa, wide door made of metal bars. 
+Room 136 has a violet, square door made of wood. 
+Room 137 has a yellow, square door made of wood. 
+Room 138 has a green, square door made of metal bars. 
+Room 139 has a rosa, pointy door made of metal bars. 
+Room 140 has a blue, wide door made of metal bars. 
+Room 141 has a yellow, wide door made of stone. 
 Room 142 has a red, round door made of wood. 
-Room 143 has a green, square door made of stone. 
-Room 144 has a violet, round door made of stone. 
-Room 145 has a green, wide door made of metal bars. 
-Room 146 has a green, wide door made of metal bars. 
-Room 147 has a rosa, square door made of stone. 
-Room 148 has a blue, round door made of stone. 
-Room 149 has a violet, pointy door made of wood. 
-Room 150 has a orange, square door made of stone. 
-Room 151 has a rosa, wide door made of wood. 
-Room 152 has a green, square door made of metal bars. 
-Room 153 has a red, wide door made of metal bars. 
-Room 154 has a orange, round door made of metal bars. 
-Room 155 has a yellow, square door made of wood. 
-Room 156 has a violet, square door made of wood. 
-Room 157 has a indigo, narrow door made of stone. 
-Room 158 has a blue, round door made of wood. 
-Room 159 has a blue, pointy door made of metal bars. 
-Room 160 has a orange, pointy door made of metal bars. 
-Room 161 has a orange, square door made of metal bars. 
-Room 162 has a rosa, round door made of metal bars. 
+Room 143 has a violet, narrow door made of stone. 
+Room 144 has a indigo, pointy door made of wood. 
+Room 145 has a green, wide door made of wood. 
+Room 146 has a orange, pointy door made of metal bars. 
+Room 147 has a orange, square door made of metal bars. 
+Room 148 has a red, wide door made of metal bars. 
+Room 149 has a yellow, square door made of wood. 
+Room 150 has a violet, round door made of metal bars. 
+Room 151 has a indigo, wide door made of stone. 
+Room 152 has a violet, wide door made of metal bars. 
+Room 153 has a yellow, wide door made of stone. 
+Room 154 has a indigo, square door made of metal bars. 
+Room 155 has a violet, pointy door made of wood. 
+Room 156 has a indigo, pointy door made of wood. 
+Room 157 has a red, pointy door made of wood. 
+Room 158 has a green, narrow door made of stone. 
+Room 159 has a red, wide door made of metal bars. 
+Room 160 has a violet, round door made of stone. 
+Room 161 has a violet, wide door made of stone. 
+Room 162 has a green, round door made of wood. 
 Room 163 has a orange, narrow door made of stone. 
-Room 164 has a rosa, square door made of stone. 
-Room 165 has a blue, wide door made of metal bars. 
-Room 166 has a yellow, wide door made of metal bars. 
-Room 167 has a red, pointy door made of metal bars. 
-Room 168 has a green, wide door made of wood. 
-Room 169 has a indigo, wide door made of metal bars. 
-Room 170 has a yellow, narrow door made of wood. 
-Room 171 has a orange, narrow door made of metal bars. 
-Room 172 has a violet, pointy door made of metal bars. 
-Room 173 has a green, round door made of metal bars. 
-Room 174 has a green, wide door made of wood. 
-Room 175 has a green, round door made of metal bars. 
-Room 176 has a blue, round door made of wood. 
-Room 177 has a indigo, wide door made of wood. 
-Room 178 has a yellow, wide door made of stone. 
-Room 179 has a rosa, pointy door made of metal bars. 
-Room 180 has a orange, pointy door made of wood. 
-Room 181 has a green, wide door made of wood. 
-Room 182 has a orange, pointy door made of wood. 
-Room 183 has a violet, pointy door made of wood. 
-Room 184 has a rosa, round door made of wood. 
-Room 185 has a orange, pointy door made of wood. 
-Room 186 has a indigo, wide door made of stone. 
-Room 187 has a red, wide door made of wood. 
-Room 188 has a blue, square door made of wood. 
-Room 189 has a green, pointy door made of stone. 
-Room 190 has a indigo, round door made of metal bars. 
-Room 191 has a violet, square door made of stone. 
-Room 192 has a indigo, pointy door made of metal bars. 
-Room 193 has a yellow, narrow door made of metal bars. 
-Room 194 has a violet, wide door made of stone. 
-Room 195 has a violet, wide door made of metal bars. 
-Room 196 has a red, narrow door made of stone. 
-Room 197 has a yellow, square door made of stone. 
-Room 198 has a yellow, pointy door made of stone. 
-Room 199 has a violet, round door made of wood. 
-Room 200 has a yellow, wide door made of metal bars. 
-Room 201 has a rosa, wide door made of metal bars. 
-Room 202 has a red, wide door made of stone. 
-Room 203 has a yellow, pointy door made of wood. 
-Room 204 has a yellow, wide door made of wood. 
-Room 205 has a yellow, square door made of metal bars. 
-Room 206 has a green, pointy door made of wood. 
-Room 207 has a rosa, round door made of metal bars. 
-Room 208 has a orange, pointy door made of wood. 
-Room 209 has a red, wide door made of wood. 
-Room 210 has a yellow, square door made of metal bars. 
-Room 211 has a blue, pointy door made of wood. 
-Room 212 has a indigo, narrow door made of metal bars. 
-Room 213 has a blue, narrow door made of metal bars. 
-Room 214 has a violet, pointy door made of metal bars. 
-Room 215 has a red, round door made of metal bars. 
-Room 216 has a green, narrow door made of metal bars. 
-Room 217 has a yellow, round door made of metal bars. 
-Room 218 has a yellow, wide door made of stone. 
-Room 219 has a blue, pointy door made of stone. 
-Room 220 has a blue, square door made of metal bars. 
-Room 221 has a red, narrow door made of wood. 
-Room 222 has a green, narrow door made of wood. 
-Room 223 has a green, narrow door made of wood. 
-Room 224 has a indigo, wide door made of metal bars. 
-Room 225 has a violet, round door made of wood. 
-Room 226 has a red, narrow door made of wood. 
-Room 227 has a indigo, wide door made of stone. 
-Room 228 has a green, pointy door made of metal bars. 
-Room 229 has a rosa, round door made of metal bars. 
-Room 230 has a red, narrow door made of metal bars. 
+Room 164 has a blue, wide door made of stone. 
+Room 165 has a indigo, square door made of stone. 
+Room 166 has a yellow, pointy door made of wood. 
+Room 167 has a violet, wide door made of stone. 
+Room 168 has a rosa, narrow door made of metal bars. 
+Room 169 has a blue, pointy door made of wood. 
+Room 170 has a indigo, square door made of metal bars. 
+Room 171 has a violet, pointy door made of stone. 
+Room 172 has a indigo, wide door made of stone. 
+Room 173 has a red, round door made of metal bars. 
+Room 174 has a red, wide door made of metal bars. 
+Room 175 has a orange, square door made of stone. 
+Room 176 has a rosa, narrow door made of wood. 
+Room 177 has a indigo, wide door made of stone. 
+Room 178 has a green, pointy door made of wood. 
+Room 179 has a orange, round door made of stone. 
+Room 180 has a blue, round door made of metal bars. 
+Room 181 has a orange, square door made of stone. 
+Room 182 has a yellow, narrow door made of metal bars. 
+Room 183 has a blue, wide door made of metal bars. 
+Room 184 has a blue, narrow door made of stone. 
+Room 185 has a rosa, square door made of metal bars. 
+Room 186 has a red, narrow door made of wood. 
+Room 187 has a blue, round door made of stone. 
+Room 188 has a red, wide door made of metal bars. 
+Room 189 has a rosa, square door made of wood. 
+Room 190 has a violet, round door made of metal bars. 
+Room 191 has a violet, wide door made of stone. 
+Room 192 has a violet, wide door made of stone. 
+Room 193 has a yellow, narrow door made of wood. 
+Room 194 has a yellow, square door made of metal bars. 
+Room 195 has a red, wide door made of stone. 
+Room 196 has a blue, square door made of wood. 
+Room 197 has a blue, round door made of metal bars. 
+Room 198 has a rosa, wide door made of metal bars. 
+Room 199 has a orange, square door made of wood. 
+Room 200 has a orange, pointy door made of wood. 
+Room 201 has a indigo, narrow door made of stone. 
+Room 202 has a rosa, square door made of wood. 
+Room 203 has a violet, pointy door made of stone. 
+Room 204 has a indigo, narrow door made of stone. 
+Room 205 has a yellow, square door made of stone. 
+Room 206 has a yellow, square door made of metal bars. 
+Room 207 has a rosa, pointy door made of metal bars. 
+Room 208 has a violet, pointy door made of stone. 
+Room 209 has a violet, pointy door made of stone. 
+Room 210 has a red, narrow door made of stone. 
+Room 211 has a green, square door made of metal bars. 
+Room 212 has a blue, pointy door made of stone. 
+Room 213 has a green, square door made of metal bars. 
+Room 214 has a indigo, narrow door made of metal bars. 
+Room 215 has a orange, square door made of stone. 
+Room 216 has a orange, round door made of wood. 
+Room 217 has a red, pointy door made of wood. 
+Room 218 has a indigo, pointy door made of metal bars. 
+Room 219 has a yellow, narrow door made of metal bars. 
+Room 220 has a red, pointy door made of stone. 
+Room 221 has a yellow, round door made of stone. 
+Room 222 has a green, wide door made of stone. 
+Room 223 has a green, square door made of metal bars. 
+Room 224 has a rosa, round door made of stone. 
+Room 225 has a red, pointy door made of wood. 
+Room 226 has a rosa, wide door made of stone. 
+Room 227 has a orange, round door made of wood. 
+Room 228 has a orange, narrow door made of wood. 
+Room 229 has a orange, wide door made of stone. 
+Room 230 has a rosa, square door made of stone. 
 Room 231 has a blue, narrow door made of wood. 
-Room 232 has a yellow, square door made of metal bars. 
-Room 233 has a red, wide door made of wood. 
-Room 234 has a red, wide door made of wood. 
-Room 235 has a red, wide door made of metal bars. 
-Room 236 has a orange, wide door made of stone. 
-Room 237 has a yellow, square door made of metal bars. 
-Room 238 has a red, wide door made of metal bars. 
-Room 239 has a violet, wide door made of metal bars. 
-Room 240 has a violet, pointy door made of stone. 
-Room 241 has a rosa, round door made of stone. 
-Room 242 has a rosa, narrow door made of wood. 
-Room 243 has a indigo, square door made of stone. 
-Room 244 has a indigo, wide door made of metal bars. 
-Room 245 has a indigo, round door made of metal bars. 
-Room 246 has a indigo, round door made of stone. 
-Room 247 has a rosa, round door made of wood. 
-Room 248 has a blue, narrow door made of stone. 
-Room 249 has a yellow, narrow door made of stone. 
-Room 250 has a violet, wide door made of wood. 
-Room 251 has a indigo, round door made of metal bars. 
-Room 252 has a yellow, pointy door made of stone. 
-Room 253 has a green, square door made of wood. 
-Room 254 has a blue, pointy door made of stone. 
-Room 255 has a rosa, square door made of wood. 
+Room 232 has a indigo, wide door made of stone. 
+Room 233 has a green, pointy door made of stone. 
+Room 234 has a yellow, square door made of stone. 
+Room 235 has a violet, narrow door made of metal bars. 
+Room 236 has a violet, round door made of metal bars. 
+Room 237 has a rosa, wide door made of metal bars. 
+Room 238 has a violet, pointy door made of metal bars. 
+Room 239 has a orange, square door made of stone. 
+Room 240 has a green, square door made of stone. 
+Room 241 has a yellow, pointy door made of metal bars. 
+Room 242 has a indigo, wide door made of stone. 
+Room 243 has a green, narrow door made of stone. 
+Room 244 has a green, round door made of metal bars. 
+Room 245 has a rosa, wide door made of stone. 
+Room 246 has a violet, square door made of stone. 
+Room 247 has a blue, wide door made of stone. 
+Room 248 has a rosa, round door made of stone. 
+Room 249 has a rosa, wide door made of metal bars. 
+Room 250 has a yellow, narrow door made of stone. 
+Room 251 has a red, square door made of metal bars. 
+Room 252 has a green, narrow door made of stone. 
+Room 253 has a violet, pointy door made of metal bars. 
+Room 254 has a green, narrow door made of metal bars. 
+Room 255 has a green, narrow door made of metal bars. 
