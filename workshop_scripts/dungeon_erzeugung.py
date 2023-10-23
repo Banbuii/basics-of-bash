@@ -31,14 +31,14 @@ with open(start_path + "Scroll.txt", 'w') as dun:
 
 
 for i in range(256):
-    directory = start_path + "door_" + str(i)
+    directory = start_path + "room_" + str(i)
     os.mkdir(directory)
     with open(directory + "/Key", 'w') as fil:
         if i == 142:
-            fil.write("A tiny blue key with 5 hubbles. The inscription on the key says: bashtes_pwd")
+            fil.write("A tiny blue key with 5 hubbles. The inscription on the key says: bashtes_pwd\n")
         else:
             passphrase = random.choice(pwd_first) + "_" + random.choice(pwd_second)
-            key = f"A {random.choice(size)} {random.choice(colour)} key with {random.randint(1,15)} {random.choice(key_form)}. The inscription on the key says:  {passphrase}"
+            key = f"A {random.choice(size)} {random.choice(colour)} key with {random.randint(1,15)} {random.choice(key_form)}. The inscription on the key says:  {passphrase}\n"
             fil.write(key)
     
     

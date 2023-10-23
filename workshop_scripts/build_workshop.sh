@@ -14,4 +14,4 @@ python3 huette_platzieren.py $1
 
 cp -v ./.bashrc ./.hushlogin ./treasurechest ./quest_scripts/quest.sh $1
 
-cp -fv ./wizard.cow /usr/share/cowsay/cows/
+sudo cp -fv ./wizard.cow /usr/share/cowsay/cows/

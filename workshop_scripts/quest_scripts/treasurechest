@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -sp 'Insert key to the true treasure: ' key
+read -sp 'There is a key missing to the treasurechest, press keys : ' key
 
 if [ $key = "bashtes_pwd" ]
 then
