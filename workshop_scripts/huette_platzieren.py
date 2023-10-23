@@ -10,4 +10,4 @@ for i in range(10):
     path += random.choice(pfade)
 
 print(path)
-shutil.copy("../quest_scripts/stegi_script.sh", path +"/ominousglowingdoor.sh")
+shutil.copy("./quest_scripts/stegi_script.sh", path +"/ominousglowingdoor.sh")
