@@ -69,6 +69,8 @@ Um den Ordner zu befüllen, muss das `build_workshop.sh`Skript aus dem `workshop
 
 ACHTUNG: es muss vorher cowsay installiert sein.
 
+Momentan noch etwas hacky: im home-Verzeichnis der heroes liegt eine payload Datei für den Inhalt der treasurechest (war ein quick-fix mangels ahnung). Die MUSS da auch bleiben, sonst ähhh.. funktioniert die treasurechest nicht mehr^^"
+
 Usage `build_workshop.sh`: `bash build_workshop.sh [Path to user_folder_template]`
 
 

@@ -21,7 +21,7 @@ echo "
 sleep 1
 cowsay -f wizard "hmm.."
 sleep 0.5
-cowsay -f wizard "I can't seem to open it, can you help me? Use 'bash treasurechest' to open the chest."
+cowsay -f wizard "I can't seem to open it, can you help me? Use './treasurechest' to open the chest."
 
 echo ">Input: "
 read COMMAND ARGUMENT
