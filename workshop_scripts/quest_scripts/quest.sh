@@ -24,15 +24,15 @@ sleep 0.5
 cowsay -f wizard "I can't seem to open it, can you help me? Use './treasurechest' to open the chest."
 
 echo ">Input: "
-read COMMAND ARGUMENT
-while [ ${#COMMAND} -ne 4 ] || [ ${#ARGUMENT} -ne 13 ] || [ $COMMAND != "bash" ] || [ $ARGUMENT != "treasurechest" ]
+read ARGUMENT
+while [[ ! "$ARGUMENT" == "./treasurechest" ]]
 do   
     echo "Sorry, thats not the right command, please try again."
     #echo ${#ARGUMENT}
     #echo $ARGUMENT
-    read COMMAND ARGUMENT
+    read ARGUMENT
 done   
-$COMMAND $ARGUMENT
+$ARGUMENT
 echo "
 
 
